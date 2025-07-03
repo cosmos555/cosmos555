@@ -9,16 +9,16 @@
 ## 💼 주요 프로젝트
 
 ### 메이헴의 유산(2017~2020)
-수집형 RPG
-HTML5 + php
-서버 개발, 기획, 감독, 운영
+- 수집형 RPG
+- HTML5 + php
+- 서버 개발, 기획, 감독, 운영
 
 ### 코즈믹 온라인(2015~2018)
-MMORPG
-HTML5 + node.js
-개발, 기획, 감독, 운영
-[📂 리포지토리(포폴용)](https://github.com/cosmos555/cosmiconline_client)
-[▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
+- MMORPG
+- HTML5 + node.js
+- 개발, 기획, 감독, 운영
+- [📂 리포지토리(포폴용)](https://github.com/cosmos555/cosmiconline_client)
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
 
 ## 📫 연락처
 - 이메일: dhguskdd@gmail.com
