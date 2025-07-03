@@ -47,7 +47,7 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - 정부 R&D 지원사업
 - HTML5 + js
 - 웹게임 엔진 프레임워크
-- [▶ 게임 (Link)](http://webgamejs.zip-lab.co.kr)
+- [▶ 페이지 (Link)](http://webgamejs.zip-lab.co.kr)
 
 ### 이노센트 워리어(2018~2019) - [ZIP-LAB Inc.]
 - 로크라이트
@@ -81,7 +81,7 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - 정부 R&D 지원사업
 - HTML5 + js
 - 게임화 프레임워크 연구 개발
-- [▶ 게임 (Link)](http://gamify.zip-lab.co.kr)
+- [▶ 페이지 (Link)](http://gamify.zip-lab.co.kr)
 
 ### 메이헴의 유산(2017~2020) - [ZIP-LAB Inc.]
 - 수집형 RPG
