@@ -42,6 +42,12 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - 기획, 감독
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1miRMqF4yEQfML_I3xeTyq6rhVVJZ3k7R/view)
 
+### webgame.js(2019.09~2020.09) - [ZIP-LAB Inc.]
+- 정부 R&D 지원사업
+- HTML5 + js
+- 웹게임 엔진 프레임워크
+- [▶ 게임 (Link)](http://webgamejs.zip-lab.co.kr)
+- 
 ### 이노센트 워리어(2018~2019) - [ZIP-LAB Inc.]
 - 로크라이트
 - 기획, 감독
@@ -65,10 +71,16 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/seapop/game/)
   
 ### 낱말은 새가 듣고(2018) - [ZIP-LAB Inc.]
-- 수집형 RPG
+- 캐주얼 퍼즐
 - HTML5 + js
 - 기획, 감독
 - [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/word/game/)
+
+### Gamify.js(2018.06~2019.05) - [ZIP-LAB Inc.]
+- 정부 R&D 지원사업
+- HTML5 + js
+- 게임화 프레임워크 연구 개발
+- [▶ 게임 (Link)](http://gamify.zip-lab.co.kr)
 
 ### 메이헴의 유산(2017~2020) - [ZIP-LAB Inc.]
 - 수집형 RPG
