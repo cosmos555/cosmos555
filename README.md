@@ -1,23 +1,66 @@
-## Hi there 👋
-
-## My GitHub Stats
-
-[![cosmos555's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmos555&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmos555&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💼 주요 프로젝트
 
-### 메이헴의 유산(2017~2020)
-- 수집형 RPG
-- HTML5 + php
-- 서버 개발, 기획, 감독, 운영
+### 까먹는 용사(가제) (2024~) - [ZIP-Lab Inc.]
+- 로그라이트 RPG
+- 개발 총괄 PD
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1zyGjNN6fagSPMEDy3mFOIom674Kt9Yuy/view?usp=sharing)
 
-### 코즈믹 온라인(2015~2018)
+### 서울 좀비:용병 키우기(2023~) - [ZIP-Lab Inc.]
+- 방치형 RPG
+- 개발 총괄 PD
+- [▶ 게임 (GooglePlay)](https://play.google.com/store/apps/details?id=com.ziplab.seoulzombie)
+  
+### 잡캐키우기 온라인(2020~2022) - [ZIP-Lab Inc.]
+- 방치형 MORPG
+- 개발 총괄 PD
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1cex_2GDgH1G6T11evyeQvmRDUaIc7Qtb/view)
+  
+### DROP POP(2020) - [ZIP-Lab Inc.]
+- 캐주얼 퍼즐
+- 개발, 기획
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1ijJhpMIIU0FRjsBGQVLXTYiF26uMzpE9/view)
+
+### 히로익 택틱스(2019~2020) - [ZIP-Lab Inc.]
+- 수집형 오토배틀러
+- 기획, 감독
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1miRMqF4yEQfML_I3xeTyq6rhVVJZ3k7R/view)
+
+### 이노센트 워리어(2018~2019) - [ZIP-Lab Inc.]
+- 로크라이트
+- 기획, 감독
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1zudyK-wbTMzYdRHodRZbtqONHPZDtUBD/view)
+
+### HI5GAME(2018년) - [ZIP-Lab Inc.]
+- 리워드형 HTML5 게임 플랫폼
+- 기획, 운영
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1i2cJigPZHKUf0vRanExudjtN1wsbN26d/view)
+
+### Crush The Block(2018) - [ZIP-Lab Inc.]
+- 캐주얼
+- HTML5 + js
+- 기획, 감독
+- [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/flappy/)
+
+### SEA POP(2018) - [ZIP-Lab Inc.]
+- 캐주얼 퍼즐
+- HTML5 + js
+- 기획, 감독
+- [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/seapop/game/)
+  
+### 낱말은 새가 듣고(2018) - [ZIP-Lab Inc.]
+- 수집형 RPG
+- HTML5 + js
+- 기획, 감독
+- [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/word/game/)
+
+### 메이헴의 유산(2017~2020) - [ZIP-Lab Inc.]
+- 수집형 RPG
+- 서버 개발, 기획, 감독, 운영
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1RVbR0PQRKwbs963ERbBdpSn1grTMa8Bi/view)
+  
+### 코즈믹 온라인(2015~2018) - [ZIP-Lab Inc.]
 - MMORPG
-- HTML5 + node.js
-- 개발, 기획, 감독, 운영
-- [📂 리포지토리(포폴용)](https://github.com/cosmos555/cosmiconline_client)
+- 서버 개발, 기획, 감독, 운영
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
 
 ## 📫 연락처
