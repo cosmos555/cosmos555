@@ -17,7 +17,7 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 
 ## 💼 주요 프로젝트
 
-### 까먹는 용사(가제) (2024~) - [ZIP-LAB Inc.]
+### 까먹는 용사(가제) (2024~) - [개인프로젝트]
 - 로그라이트 RPG
 - 개발 총괄 PD
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1zyGjNN6fagSPMEDy3mFOIom674Kt9Yuy/view?usp=sharing)
