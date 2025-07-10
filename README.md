@@ -115,6 +115,47 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - 2009 ~ 2019 (4학년 2학기 중퇴)
 - 컴퓨터공학과
 
+## 🏆 수상 이력
+### 구글 창구 프로그램 3기
+- 2021년
+- 창업진흥원
+
+### 이달의 우수게임
+- 2019년
+- 인디게임
+- 문화체육관광부
+
+### 기술보증기금 벤처 캠프 1기
+- 2017년
+- 기술보증기금
+
+### 2nd 게임 창조 오디션 3위
+- 2016년
+- 경기콘텐츠진흥원
+
+### 코나아이 창업 경진대회 우수상
+- 2015년
+- (주)코나아이
+
+## 🎮 기타 이력
+- 충남 기능경기대회 게임개발 심사위원 (2025.04)
+- 강원 기능경기대회 게임개발 심사위원 (2022.04)
+- 전국 기능경기대회 게임개발 심사위원 (2021.09)
+- 서울 기능경기대회 게임개발 심사위원 (2021.04)
+- 서울 기능경기대회 게임개발 심사위원 (2020.04)
+
+## 📰 기사
+- [설립 3년차 충남 글로벌 게임센터, 그 성과는? (인벤)](https://www.inven.co.kr/webzine/news/?news=265686)
+- [올해 상반기 선정된 주목할 만한 게임, '이달의 우수게임' 2019년 상반기 시상식 개최 (디스이즈게임)](https://www.thisisgame.com/webzine/nboard/4/2657011?page=162&n=96681)
+- [집연구소, HTML5 기반 전략 RPG '메이헴의 유산' 러시아 퍼블리싱 계약 체결 (디스이즈게임)](https://www.thisisgame.com/webzine/nboard/4/2657011?n=99675%3Fpage%3D144&page=144)
+- [세종대생들이 만든 게임, 러시아·유럽 진출 (한국대학신문)](https://news.unn.net/news/articleView.html?idxno=161643)
+- [집연구소, HTML5 전략 RPG '메이헴의 유산' 구글 정식 출시 (인벤)](https://m.inven.co.kr/webzine/wznews.php?idx=221529)
+- [집연구소, SF MMORPG 게임 ‘코즈믹 온라인’ 러시아 및 동유럽 론칭 (인벤)](https://www.inven.co.kr/webzine/news/?news=155249)
+- [웹과 모바일에서 ‘이브 온라인’을 꿈꾼다, ‘코즈믹 온라인’의 집연구소 (디스이즈게임)](https://www.thisisgame.com/webzine/special/nboard/5/?n=58771)
+- [HTML5게임을 인도로! 집연구소, 인도 게임퍼블리셔 퍼니즌과 계약 체결 (인벤)](https://www.inven.co.kr/webzine/news/?news=177931)
+- [대학생 게임벤처 “북미-유럽서 홈런 칠 준비” (동아일보)](https://www.donga.com/news/It/article/all/20160811/79685814/1)
+- [인디개발사가 해냈다… 집연구소, ´코즈믹온라인´ 4개 대륙 퍼블리싱 계약 체결 (게임조선)](https://www.gamechosun.co.kr/webzine/article/view.php?no=134798)
+
 ## 📫 연락처
 - 이메일: dhguskdd@gmail.com
 
