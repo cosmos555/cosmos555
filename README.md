@@ -44,6 +44,7 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
 
 ### 메이헴의 유산(2017~2020) - [ZIP-LAB Inc.]
+- 연 매출 5천만 원
 - 서버 개발, 기획, 감독, 운영
 - 수집형 RPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1RVbR0PQRKwbs963ERbBdpSn1grTMa8Bi/view)
