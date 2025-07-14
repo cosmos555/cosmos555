@@ -103,7 +103,7 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/word/game/)
 
 ## 🛠 보유 기술
-- Unity3D, C#, HTML5, js, Node.js, PlayFab, Git, GitHub Actions
+- Unity3D, C#, HTML5, js, Node.js, PlayFab, Git
 - 웹 기반 게임 개발, UNITY 기반 게임 개발, 게임 기획 및 시스템 설계에 강점을 가지고 있으며, MMORPG, 전략 RPG 등 다양한 장르의 프로젝트를 총괄해왔고 또한 직접 개발도 하였습니다. 글로벌 퍼블리싱 경험과 더불어 소규모 팀 빌딩, 개발 프로세스 구축, 서비스 운영 전반에 대한 실무 경험을 보유하고 있습니다. 특히 초기 기획부터 출시 및 라이브 서비스부터 서비스 종료까지 전 단계에 직접 참여하며, 실행 중심의 개발 역량과 커뮤니케이션 능력을 갖추고 있습니다.​
 
 ## 💻 주요 경력
@@ -157,6 +157,10 @@ Unity와 HTML5 기반 멀티플랫폼 환경에서 MMORPG, 전략 RPG, 방치형
 - [HTML5게임을 인도로! 집연구소, 인도 게임퍼블리셔 퍼니즌과 계약 체결 (인벤)](https://www.inven.co.kr/webzine/news/?news=177931)
 - [대학생 게임벤처 “북미-유럽서 홈런 칠 준비” (동아일보)](https://www.donga.com/news/It/article/all/20160811/79685814/1)
 - [인디개발사가 해냈다… 집연구소, ´코즈믹온라인´ 4개 대륙 퍼블리싱 계약 체결 (게임조선)](https://www.gamechosun.co.kr/webzine/article/view.php?no=134798)
+
+## 🎖 병역
+- 육군 만기 전역
+- 2010.10 ~ 2012.07
 
 ## 📫 연락처
 - 이메일: dhguskdd@gmail.com
