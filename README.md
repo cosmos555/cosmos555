@@ -25,7 +25,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 - 구글 창구 프로그램 3기
 - 개발 총괄 PD, 클라이언트 개발
 - 방치형 MORPG
-- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1cex_2GDgH1G6T11evyeQvmRDUaIc7Qtb/view)
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1YF2WJPDjTCm5Ei2ewSyCFwqsI9z2FAby/view?usp=sharing)
 
 ### 서울 좀비:용병 키우기(2023~) - [ZIP-LAB Inc.]
 - 50만 다운로드
