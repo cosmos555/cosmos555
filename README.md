@@ -47,6 +47,12 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 - 수집형 RPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1RVbR0PQRKwbs963ERbBdpSn1grTMa8Bi/view)
 
+### 레바의 신박한 터치터치(2016) - [ZIP-LAB Inc.]
+- 페이스북 인스턴트 게임 프로젝트
+- 레진코믹스 레바 IP 활용
+- 개발, 기획
+- [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1pAQH9lNZ_-4iSOk1n9NAVLiznGvGKBX_/view?usp=sharing)
+
 ### webgame.js(2019.09~2020.09) - [ZIP-LAB Inc.]
 - 정부 R&D 지원사업
 - HTML5 + js
