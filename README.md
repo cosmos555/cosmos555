@@ -109,7 +109,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 - [▶ 게임 (Link)](http://cdn.zip-lab.co.kr/data/word/game/)
 
 ## 🛠 보유 기술
-- Unity3D, C#, HTML5, js, Node.js, PHP, PlayFab, Git
+- Unity3D, C#, HTML5, js, Node.js, NoSQL, PHP, RDBMS, PlayFab, Git
 - 웹 기반 게임 개발, UNITY 기반 게임 개발, 게임 기획 및 시스템 설계에 강점을 가지고 있으며, MMORPG, 전략 RPG 등 다양한 장르의 프로젝트를 총괄해왔고 또한 직접 개발도 하였습니다. 글로벌 퍼블리싱 경험과 더불어 소규모 팀 빌딩, 개발 프로세스 구축, 서비스 운영 전반에 대한 실무 경험을 보유하고 있습니다. 특히 초기 기획부터 출시 및 라이브 서비스부터 서비스 종료까지 전 단계에 직접 참여하며, 실행 중심의 개발 역량과 커뮤니케이션 능력을 갖추고 있습니다.​
 
 ## 💻 주요 경력
