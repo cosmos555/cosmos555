@@ -23,6 +23,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 ### 잡캐키우기 온라인(2020~2022) - [ZIP-LAB Inc.]
 - 계약금 5억, 일 매출 5천
 - 구글 창구 프로그램 3기
+- 충남 게임상 1위
 - 개발 총괄 PD, 클라이언트 개발
 - 방치형 MORPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1YF2WJPDjTCm5Ei2ewSyCFwqsI9z2FAby/view?usp=sharing)
