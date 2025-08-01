@@ -67,7 +67,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 - [▶ 페이지 (Link)](http://gamify.zip-lab.co.kr)
 
 ### 까먹는 용사(가제) (2024~) - [개인프로젝트]
-- 개발 총괄 PD
+- 개발 총괄 PD, 클라이언트 개발(Unity)
 - 로그라이트 RPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1zyGjNN6fagSPMEDy3mFOIom674Kt9Yuy/view?usp=sharing)
   
