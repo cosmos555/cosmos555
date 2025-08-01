@@ -29,20 +29,20 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 
 ### 서울 좀비:용병 키우기(2023~) - [ZIP-LAB Inc.]
 - 50만 다운로드
-- 개발 총괄 PD, 클라이언트 개발
+- 개발 총괄 PD, 클라이언트 개발(Unity)
 - 방치형 RPG
 - [▶ 게임 (GooglePlay)](https://play.google.com/store/apps/details?id=com.ziplab.seoulzombie)
 
 ### 코즈믹 온라인(2015~2018) - [ZIP-LAB Inc.]
 - 유럽, 러시아 서비스
 - 10만 유로 수출
-- 서버 개발, 기획, 감독, 운영
+- 서버 개발(Node.js, MySql), 기획, 감독, 운영
 - MMORPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
 
 ### 메이헴의 유산(2017~2020) - [ZIP-LAB Inc.]
 - 연 매출 5천만 원
-- 서버 개발, 기획, 감독, 운영
+- 서버 개발(PHP, MySql), 기획, 감독, 운영
 - 문체부 주관 이달의 우수게임 선정(2019년)
 - 수집형 RPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1RVbR0PQRKwbs963ERbBdpSn1grTMa8Bi/view)
@@ -50,7 +50,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 ### 레바의 신박한 터치터치(2016) - [ZIP-LAB Inc.]
 - 페이스북 인스턴트 게임 프로젝트
 - 레진코믹스 레바 IP 활용
-- 개발, 기획
+- 개발(HTML5, Js), 기획
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/1pAQH9lNZ_-4iSOk1n9NAVLiznGvGKBX_/view?usp=sharing)
 
 ### webgame.js(2019.09~2020.09) - [ZIP-LAB Inc.]
