@@ -36,7 +36,7 @@ Unity 기반 모바일 환경과 HTML5 기반 멀티플랫폼 환경에서 MMORP
 ### 코즈믹 온라인(2015~2018) - [ZIP-LAB Inc.]
 - 유럽, 러시아 서비스
 - 10만 유로 수출
-- 서버 개발(Node.js, MySql), 기획, 감독, 운영
+- 서버 개발(Node.js, MySql, WebSocket), 기획, 감독, 운영
 - MMORPG
 - [▶ 영상 (Google Drive)](https://drive.google.com/file/d/19lWu3vgFtwW0OE5HVLaUy9auLmZhXxFq/view?usp=sharing)
 
