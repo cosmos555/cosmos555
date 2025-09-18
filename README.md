@@ -38,5 +38,3 @@
 - Portfolio: [cosmos555.github.io](https://cosmos555.github.io/)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bomin-kwon-b84419162/)
 
-## GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmos555&show_icons=true&theme=radical)
