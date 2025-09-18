@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:cosmos555.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
